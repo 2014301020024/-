@@ -5,4 +5,5 @@
  - [第三次作业](https://www.zybuluo.com/2014301020024/note/577625)<br>
  - [第四次作业](https://www.zybuluo.com/2014301020024/note/580125)<br>
  - [第五次作业](https://www.zybuluo.com/2014301020024/note/589652)<br>
-  -[第六次作业](https://www.zybuluo.com/2014301020024/note/607673)<br>
+ - [第六次作业](https://www.zybuluo.com/2014301020024/note/607673)<br>
+ - [第七次作业](https://www.zybuluo.com/2014301020024/note/615755)<br>
